@@ -87,5 +87,5 @@ Happy to accept PRs.
 
 ## License
 
-Released under the [Apache License](https://github.com/davidwartell/go-copier/blob/master/License).
+Released under the [Apache License](https://github.com/davidwartell/go-copier/blob/master/LICENSE).
 
