@@ -48,18 +48,6 @@ err := copier.Copy(dstStructPtr, srcStructPtr)
 
 See copier_test.go for more
 
-### Building
-```
-make setup
-make all
-```
-
-### Building for Release
-```
-make setup
-make release all
-```
-
 ### Unit Tests
 ```
 make test
