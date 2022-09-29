@@ -41,7 +41,12 @@ protobuf wrappers.
 * Copy from []byte to wrapperspb.BytesValue
 
 ## Usage
-See copier_test.go
+
+```
+err := copier.Copy(dstStructPtr, srcStructPtr)
+```
+
+See copier_test.go for more
 
 ### Building
 ```
